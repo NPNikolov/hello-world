@@ -1,3 +1,6 @@
+Not empty
+Line for checkkkk
+=======
 bash test
 and additional line
 update from bash
