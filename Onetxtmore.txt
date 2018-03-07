@@ -1,1 +1,2 @@
-Not empty
+bash test
+and additional line
