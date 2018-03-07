@@ -5,3 +5,5 @@ bash test
 and additional line
 addone tortoise update
 update from bash
+
+Check does it ignore?
