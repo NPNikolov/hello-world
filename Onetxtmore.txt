@@ -1,2 +1,5 @@
 Not empty
-Line for check
+Line for checkkkk
+=======
+bash test
+and additional line
